@@ -1,0 +1,2 @@
+# HashVim
+My Neovim Configuration.
