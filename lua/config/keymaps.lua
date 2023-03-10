@@ -5,7 +5,6 @@ vim.keymap.set({ "n", "v" }, "_", '"_')
 vim.keymap.set({ "n", "v" }, "+", '"+')
 
 vim.keymap.set("i", "<C-s>", "<Esc>:w<CR>a")
-vim.keymap.set("n", "<C-M-Tab>", "<Esc>:set wrap spell cursorline cursorcolumn<CR>")
 
 vim.keymap.set("n", "<<", "<C-c>")
 vim.keymap.set("i", "<<", "<C-c>")
